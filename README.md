@@ -3,3 +3,5 @@ Timeline:
 
 * PANC754 manuscript draft completed with submission to cancer research
 * ENCORI web service interface: http://starbase.sysu.edu.cn/tutorialAPI.php
+* In 2019 and 2020, LNCipedia collected 127,802 ncRNA transcripts and 56,946 ncRNA genes.
+* LNCipedia is a public database for long non-coding RNA (lncRNA) sequence and annotation: https://lncipedia.org/
